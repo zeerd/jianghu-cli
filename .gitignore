@@ -1,0 +1,10 @@
+/.build
+/.build-coverage
+/.vs
+/build
+/build-win
+/out
+/packages
+*.swp
+*.user
+
